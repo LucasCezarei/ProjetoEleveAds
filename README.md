@@ -11,7 +11,7 @@ Este projeto foi desenvolvido em PHP com as seguintes tecnologias e ferramentas:
 Para clonar e executar este aplicativo, você precisará do Git , Xampp instalado em seu computador.
 
 # Clone este repositório
-$ git clone https://github.com/LucasCezarei/ProjetoEleveAds
+$ git clone https://github.com/LucasCezarei/ProjetoEleveAds.git
 
 # Como Iniciar
 Cole ele dentro da pasta C:\xampp\htdocs com o nome de (projeto)
